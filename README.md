@@ -1,5 +1,7 @@
 # ImageOCR_demo
-一个简单的图像OCR项目demo，采用Tess4J项目库
+**Intellij2021.3项目工程文件,可导入**
+
+一个简单的图像OCR项目demo，默认jdk8开发，采用Tess4J项目库
 
 tessdata是训练好的字库模型，默认使用了中文字库.
 
